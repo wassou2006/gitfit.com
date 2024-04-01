@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(IMG_2405.JPG);
+    background-size: cover;
+    background-position: center;
+    height: 10px;
+    transform-origin: 10px;
+    font-family: sans-serif;
+}
+.menu-bar{
+    background: rgba(0,100,0);
+    text-align: center;
+    font-size: medium;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+    font-weight: 200px;
+}
+.menu-bar ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a{
+    text-decoration: double;
+    color: chartreuse;
+    transition: 0.2s ease-in-out;
+    font-size: large;
+}
+.active,.menu-bar ul li:hover{
+    background: red;
+    border-radius: 100px;
+    transition: 0.4s ease-out;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: flex;
+    width: 150px;
+    font-size: xx-large;
+}
+body{
+    color:#0800ed;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: 4px 5px 6px rgb(250, 0, 0);
+}
+h3{
+    font-size: xx-large;
+    
+}

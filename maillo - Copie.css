@@ -1,0 +1,30 @@
+*{
+    margin: 100;
+    padding: 50;
+}
+body{
+    background-image: url(OIPS093D7VI.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 10px;
+    transform-origin: 10px;
+    font-family: sans-serif;
+}
+body{
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: rgb(0, 0, 255);
+}
+p{
+    color: red;
+    font-size: 100px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-indent: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 1px 2px 3px blue;
+    padding-left: 20px;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 100;
+    padding: 50;
+}
+body{
+    background-image: url(OIPVKN0I0L4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 10px;
+    transform-origin: 10px;
+    font-family: sans-serif;
+}
+body{
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: rgb(0, 21, 255);
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+    text-indent: 20px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+}
+.p1{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    transition: 0.4 ease-in-out;
+    text-decoration: underline;
+    text-shadow: 2px 14px 10px  red;
+    letter-spacing: 15px;
+    text-align: right;
+    padding-left: 20px;
+}
